@@ -1,0 +1,9 @@
+.text{
+  text-align: right;
+  position: relative;
+  z-index: right;
+  left: 500px;
+}
+background-image{
+  float: right;
+}
